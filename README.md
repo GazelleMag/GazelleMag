@@ -3,7 +3,7 @@
 ### About me 😎
 <ul>
   <li>Took a degree in computer science at University of Beira Interior. This is where I had my first contact with code!</li>
-  <li>I am currently working at Capgemini as Frontend Web Developer.</li>
+  <li>I am currently working at Capgemini as a Frontend Web Developer.</li>
   <li>I develop video games and other projects on my free time.</li>
   <li>Sports, music and videogames enthusiast.</li>
 </ul>
