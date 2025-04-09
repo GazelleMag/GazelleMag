@@ -10,12 +10,12 @@
 
 ### What I'm up to 👈
 <ul>
-  <li>I'm currently developing a videogame. https://github.com/GazelleMag/Magal-Warrior</li>
+  <li>I'm currently developing a videogame.</li>
   <li>Working on my physique.
 </ul>
 
 ### One day I hope to 🤞
 <ul>
-  <li>Work on a company as a game developer.</li>
+  <li>Become a full time game developer.</li>
   <li>Learn to produce and mix music.</li>
 </ul>
